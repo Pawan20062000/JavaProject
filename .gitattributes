@@ -1,0 +1,28 @@
+# TaskMaster: A Collaborative Task Tracking System
+
+## Description
+TaskMaster is a backend system developed using Spring Boot for tracking and managing tasks in a collaborative team environment. It supports task CRUD operations, user authentication, team/project management, and real-time communication extensions.
+
+## Tech Stack
+- Java 17
+- Spring Boot
+- MySQL
+- Spring Security (JWT)
+- WebSockets (optional)
+- OpenAI (optional)
+
+## Features
+User registration, login, profile management
+Task creation, assignment, completion
+Team/project collaboration
+Comments and attachments
+JWT-based authentication
+RESTful API
+Optional: WebSocket notifications, AI integration
+
+## Getting Started
+
+### Prerequisites
+- Java 17
+- MySQL
+- Maven
